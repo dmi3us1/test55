@@ -1,0 +1,40 @@
+.mail_name {
+    font-size: 38px;
+    text-align: center;
+}
+
+body {
+    font-style: normal;
+    font-family: "Arial", sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    padding-left: 50px;
+}
+
+td {
+    padding-left: 15px;
+}
+
+.td_work {
+    font-style: italic;
+    font-size: large;
+}
+
+.img_avatar {
+    width: 30%;
+}
+
+.hobby_format {
+    padding-left: 30px;
+}
